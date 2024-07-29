@@ -1,16 +1,14 @@
-## Hi there 👋
+## Sejam bem vindos ao meu perfil 🌟
 
-<!--
-**isabela1209/isabela1209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Isabela, tenho 15 anos
+-Estou estudando alura
+-Uso aqui para compartilhar meus projetos 
 
-Here are some ideas to get you started:
+# PARA ENTRAR EM CONTATO COMIGO 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+isabelamaximo11@gmail.com
+
+# 📱 insta: s.isaa2
+
+
+![](https://media1.tenor.com/m/DizXi3Ix80EAAAAd/mad-monkey-mad.gif)
